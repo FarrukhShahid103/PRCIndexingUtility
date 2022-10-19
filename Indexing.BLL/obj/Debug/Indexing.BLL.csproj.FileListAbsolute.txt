@@ -1,0 +1,11 @@
+D:\Farrukh\Projects\PRCIndexingUtility\PRCIndexingUtility\Indexing.BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Farrukh\Projects\PRCIndexingUtility\PRCIndexingUtility\Indexing.BLL\bin\Debug\Indexing.BLL.dll
+D:\Farrukh\Projects\PRCIndexingUtility\PRCIndexingUtility\Indexing.BLL\bin\Debug\Indexing.BLL.pdb
+D:\Farrukh\Projects\PRCIndexingUtility\PRCIndexingUtility\Indexing.BLL\bin\Debug\Indexing.DLL.dll
+D:\Farrukh\Projects\PRCIndexingUtility\PRCIndexingUtility\Indexing.BLL\bin\Debug\Indexing.EL.dll
+D:\Farrukh\Projects\PRCIndexingUtility\PRCIndexingUtility\Indexing.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Farrukh\Projects\PRCIndexingUtility\PRCIndexingUtility\Indexing.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Farrukh\Projects\PRCIndexingUtility\PRCIndexingUtility\Indexing.BLL\bin\Debug\Indexing.DLL.pdb
+D:\Farrukh\Projects\PRCIndexingUtility\PRCIndexingUtility\Indexing.BLL\bin\Debug\Indexing.EL.pdb
+D:\Farrukh\Projects\PRCIndexingUtility\PRCIndexingUtility\Indexing.BLL\obj\Debug\Indexing.BLL.dll
+D:\Farrukh\Projects\PRCIndexingUtility\PRCIndexingUtility\Indexing.BLL\obj\Debug\Indexing.BLL.pdb

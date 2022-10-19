@@ -1,0 +1,5 @@
+D:\Farrukh\Projects\PRCIndexingUtility\PRCIndexingUtility\Indexing.EL\bin\Debug\Indexing.EL.dll
+D:\Farrukh\Projects\PRCIndexingUtility\PRCIndexingUtility\Indexing.EL\bin\Debug\Indexing.EL.pdb
+D:\Farrukh\Projects\PRCIndexingUtility\PRCIndexingUtility\Indexing.EL\obj\Debug\ResolveAssemblyReference.cache
+D:\Farrukh\Projects\PRCIndexingUtility\PRCIndexingUtility\Indexing.EL\obj\Debug\Indexing.EL.dll
+D:\Farrukh\Projects\PRCIndexingUtility\PRCIndexingUtility\Indexing.EL\obj\Debug\Indexing.EL.pdb
